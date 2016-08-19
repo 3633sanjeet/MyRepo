@@ -1,0 +1,26 @@
+What do I(Analyst) want to do more of and how will I make it happen? (6 Month Horizon)
+I want to work towards building analytical models(Descriptive, Predictive and Prescriptive modeling) for business.
+What - I will start by taking one/more business problems in FC's and build simple analytics solutions to begin with, and then build advanced models.
+WHEN - JFM, AMJ -next 2 quarters
+HELP NEEDED- No/very less bandwidth currently to explore various techniques and implement as other more priority work is there.
+
+
+
+What do I(Analyst) want to do less of and how will I make it happen? 
+(6 Month Horizon)
+What- I want to spend less/no time on filling metrics/data in spreadsheets.
+How : Make BI self serve for users. Automate tasks so that it benefits in long run.
+HELP NEEDED- Not take/avoid taking filling any spreadsheet related work, even if it looks small initially which becomes a pain later for analyst.
+
+ 
+
+
+What do you want to know more about Sriram?
+
+
+What should Sriram know about the team?
+
+
+
+
+WHO- WHAT – WHEN and HELP NEEDED. 
